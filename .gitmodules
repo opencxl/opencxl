@@ -1,0 +1,6 @@
+[submodule "opencxl-core"]
+	path = opencxl-core
+	url = https://github.com/opencxl/opencxl-core.git
+[submodule "opencxl-qemu"]
+	path = opencxl-qemu
+	url = https://github.com/opencxl/opencxl-qemu.git
