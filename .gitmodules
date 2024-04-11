@@ -4,3 +4,6 @@
 [submodule "opencxl-qemu"]
 	path = opencxl-qemu
 	url = https://github.com/opencxl/opencxl-qemu.git
+[submodule "opencxl-manager-ui"]
+	path = opencxl-manager-ui
+	url = https://github.com/opencxl/opencxl-manager-ui.git
